@@ -1,0 +1,2 @@
+F:\projects\Junaid\Library\x64\Debug\Library.exe
+F:\projects\Junaid\Library\x64\Debug\Library.pdb
